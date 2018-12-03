@@ -1,4 +1,4 @@
-# 中小板基本指标下载，列表建立
+# 基本指标下载，列表建立
 
 library(jsonlite)
 library(magrittr)
